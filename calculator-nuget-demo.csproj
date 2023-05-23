@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <RootNamespace>calculator_nuget_demo</RootNamespace>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <Authors>Pasindu Prabhashitha</Authors>
+    <Company>Pasindu Prabhashitha</Company>
+	<RepositoryUrl>https://github.com/PasinduPrabhashitha/.NET-Nuget-Package-Article-Demo</RepositoryUrl>
+  </PropertyGroup>
+
+</Project>
